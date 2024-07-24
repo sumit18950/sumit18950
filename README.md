@@ -36,7 +36,7 @@
 <div align="left">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="35" alt="java logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="35" alt="c logo"  />
+<!--   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="35" alt="c logo"  /> -->
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
   <img width="12" />
