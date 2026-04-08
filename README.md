@@ -6,13 +6,14 @@
 ![](https://komarev.com/ghpvc/?username=sumit18950&color=blue)<br>
 ### A passionate and enthusiast programmer<br>
 <div align="center">
-  <img height="200" src="(https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)" width= "350" align=right />
+  <img height="200" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width= "350" align=right />
 </div>
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
 - 🏫 I’m currently learning <b>Data Structures And MERN Stack Development</b> <br>
 - 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
 - 🤔 I’m looking for help with <b>Model Training</b><br>
 - 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
+-here my portfolio: https://sumit18950.github.io/
 
 ### 🕵 Social Media Handles!<br>
 
@@ -80,7 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sumit18950&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit18950&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /><br><br>
   <img src="https://github-profile-trophy.vercel.app?username=sumit18950&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit18950&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit18950&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
